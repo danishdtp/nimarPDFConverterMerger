@@ -2,6 +2,7 @@
 # निमाड़ पीडीएफ कंवर्टल एवं मर्ज साॅफ़टवेयर 
 
 A simple utility to converts documents, spreadsheet, text and images into pdf individual or merged in single file. Supports devanagari hindi script.
+यह एक आसान यूटिलिटी है जो डॉक्यूमेंट, स्प्रेडशीट, टेक्स्ट और इमेज को अलग-अलग या एक ही फ़ाइल में मर्ज करके PDF में बदलती है। यह देवनागरी हिंदी स्क्रिप्ट को सपोर्ट करती है।
 
 ## Features
 - No nonsense converter and merger software runs locally on your machine
@@ -22,7 +23,7 @@ Executable files for Windows and Linux are supplied in Releases. To use them dow
 ### Build from source :
 The software is created in Python so you can easily build it from source. 
 1. First create a local copy using
-`git clone https://github.com/danishdtp/nimarPDFConverter.git `
+  `git clone https://github.com/danishdtp/nimarPDFConverter.git `
 2. Build Requirements
 - Python 3.8+
 - LibreOffice (for Office document conversion)
