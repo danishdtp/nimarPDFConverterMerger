@@ -19,7 +19,8 @@ A simple utility to converts documents, spreadsheet, text and images into pdf in
 - Merge multiple PDF files into single document or create individual pdf
 - Devanagari font support for Hindi text
 - Cross-platform support (Windows, macOS, Linux)
-- 
+- No file size limit - you can upload as many files as you want provided your computer memory supports it.
+  
 ## विशेषताएं
 - बिना किसी झंझट वाला कन्वर्टर और मर्जर सॉफ्टवेयर जो आपके कंप्यूटर पर लोकल रूप से चलता है
 - कई डॉक्यूमेंट फॉर्मेट को PDF में कन्वर्ट करें
