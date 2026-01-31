@@ -7,7 +7,8 @@
 
 </div>
 
-A simple utility to converts documents, spreadsheet, text and images into pdf individual or merged in single file. Supports devanagari hindi script.\
+A simple utility to converts documents, spreadsheet, text and images into pdf individual or merged in single file. Supports devanagari hindi script. This is inspired by A-Pdf Merger software of old times with increased supported file formats.\
+
 यह एक आसान यूटिलिटी है जो डॉक्यूमेंट, स्प्रेडशीट, टेक्स्ट और इमेज को अलग-अलग या एक ही फ़ाइल में मर्ज करके PDF में बदलती है। यह देवनागरी हिंदी स्क्रिप्ट को सपोर्ट करती है।
 
 ## Features
@@ -17,8 +18,8 @@ A simple utility to converts documents, spreadsheet, text and images into pdf in
 - Merge multiple PDF files into single document or create individual pdf
 - Devanagari font support for Hindi text
 - Cross-platform support (Windows, macOS, Linux)
+- 
 ## विशेषताएं
-
 - बिना किसी झंझट वाला कन्वर्टर और मर्जर सॉफ्टवेयर जो आपके कंप्यूटर पर लोकल रूप से चलता है
 - कई डॉक्यूमेंट फॉर्मेट को PDF में कन्वर्ट करें
 - ऑफिस डॉक्यूमेंट, टेक्स्ट फ़ाइल, इमेज और वेब फॉर्मेट के लिए सपोर्ट है
