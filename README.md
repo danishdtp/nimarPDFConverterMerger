@@ -51,7 +51,16 @@ The software is created in Python so you can easily build it from source.
 pip install -r requirements.txt
 python main.py
 ```
+The software will start running
 
+4. Creating the executable :
+   To create an executable file, use pyinstaller with provided spec file as follows :
+   ```bash
+   pip install pyinstaller
+   pyinstaller --clean NimarPDFConverterSoftware.spec
+   ```
+   After successful completion, the executable will be in directory 
+   `dist/NimarPDFConverterSoftware.exe`
 ## Usage
 1. Run the application
 2. Upload files using the file browser
