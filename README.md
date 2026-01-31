@@ -1,4 +1,5 @@
-# Nimar PDF Converter and Merger Software
+# Nimar PDF  and Merger Software
+## An open source software to convert documents to pdf and merge them.
 ## निमाड़ पीडीएफ कंवर्टल एवं मर्ज साॅफ़टवेयर 
 
 <div align="center">
